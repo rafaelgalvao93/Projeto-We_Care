@@ -205,7 +205,7 @@ section {
 img { 
     height: 317px;
 width: 354px;
-margin: 149px 0 0 14px;
+margin: 149px 0 0 50px;
 
 }
 
@@ -245,7 +245,6 @@ p {
 }
 
 section {
-    margin: 14px 0 0 64px;
-}
+    margin: 14px 0 0 100px;
 
 }
